@@ -1,18 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Doy's%20Github%20profile&fontSize=55&fontAlign=65&desc=Welcome%20to%20my%20Github%20profile&descSize=15&descAlign=77&fontColor=ffffff) 
 
-🐤My GitHub stats🐤
 
-![Doy's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=dark&hide_border=true&width=100)
-
-💡My Top Langs💡
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedo97y&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=dark&hide_border=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leedo97y&layout=compact" aline=center>
 
 
+## My Accounts
 
 <a href="https://velog.io/@dlehdus97" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <a href="https://www.instagram.com/leedo_dev/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
-👩‍💻Tech Stack👩‍💻
+
+## Tech Stack
 
 Techs that i've used at least once
 
