@@ -1,5 +1,5 @@
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=3,4,5,6,9,10,11,13,15,16,19,21,23,24,26&height=350&section=header&text=Doy's%20Github%20profile&fontSize=55&fontAlign=66&fontColor=ffffff">
+ <img src="https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=3,4,5,6,9,10,11,13,17,19,21,23,24,25,26&height=350&section=header&text=Doyeon%20Lee&fontSize=75&fontAlignY=47&desc=welcome%20to%20my%20profile!&descSize=17&descAlign=62.5&fontColor=ffffff&animation=fadeIn">
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=gruvbox&hide_border=true"/> 
