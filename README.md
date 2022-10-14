@@ -1,7 +1,7 @@
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=3,4,5,6,9,10,11,13,17,19,21,23,24,25,26&height=350&section=header&text=Doyeon%20Lee&fontSize=75&fontAlignY=47&desc=welcome%20to%20my%20profile!&descSize=17&descAlign=62.5&fontColor=ffffff&animation=fadeIn">
  
-<br></br>
+
 ## Contects
 <a href="https://velog.io/@dlehdus97" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><a href="mailto:peas5416@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
