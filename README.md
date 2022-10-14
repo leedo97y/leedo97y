@@ -1,8 +1,5 @@
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=3,4,5,6,9,10,11,13,17,19,21,23,24,25,26&height=350&section=header&text=Doyeon%20Lee&fontSize=75&fontAlignY=47&desc=welcome%20to%20my%20profile!&descSize=17&descAlign=62.5&fontColor=ffffff&animation=fadeIn">
-
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=gruvbox&hide_border=true"/> 
  
 <br></br>
 ## Contects
@@ -21,6 +18,9 @@ Techs that i've used at least once
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/ R-276DC3?style=for-the-badge&logo=R&logoColor=white"/> 
 
  </div>
-
+ 
+<br></br>
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=gruvbox&hide_border=true"/> 
 
 
