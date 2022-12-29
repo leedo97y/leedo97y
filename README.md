@@ -9,7 +9,7 @@
 ## Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> 
  
-<br></br>
+
 ## Tech Stack
 Techs that i've used at least once
 
@@ -19,7 +19,7 @@ Techs that i've used at least once
 
  </div>
  
-<br></br>
+
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=gruvbox&hide_border=true"/> 
 
