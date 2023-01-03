@@ -18,7 +18,7 @@ Techs that i've used at least once
  
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=gruvbox&hide_border=true"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leedo97y&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=gruvbox&hide_border=true"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leedo97y&layout=compact"/> -->
 
 
