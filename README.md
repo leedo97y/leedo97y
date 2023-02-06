@@ -1,9 +1,9 @@
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=3,4,5,6,9,10,11,13,17,19,21,23,24,25,26&height=200&section=header&text=Doyeon%20Lee&fontSize=55&fontAlignY=38&desc=welcome%20to%20my%20profile!&descSize=15&descAlign=58&fontColor=ffffff&animation=fadeIn">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=210&section=header&text=Doyeon%20Lee&fontSize=55&fontAlignY=42&desc=welcome%20to%20my%20profile!&descSize=15&descAlign=58&fontColor=708a32&animation=fadeIn">
  
 
 ## Contects
-<a href="https://velog.io/@dlehdus97" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><a href="mailto:peas5416@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@dlehdus97" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><a href="mailto:dlehdus1433@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>
 ## Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> 
