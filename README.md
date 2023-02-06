@@ -1,5 +1,5 @@
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=210&section=header&text=Doyeon%20Lee&fontSize=55&fontAlignY=42&desc=welcome%20to%20my%20profile!&descSize=15&descAlign=58&fontColor=bfde76&animation=fadeIn">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=210&section=header&text=Doyeon%20Lee&fontSize=55&fontAlignY=42&desc=welcome%20to%20my%20profile!&descSize=15&descAlign=58&fontColor=d3fa78&animation=fadeIn">
  
 ## Contects
 <a href="https://velog.io/@dlehdus97" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><a href="mailto:dlehdus1433@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
