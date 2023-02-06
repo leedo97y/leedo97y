@@ -1,5 +1,5 @@
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=210&section=header&text=Doyeon%20Lee&fontSize=55&fontAlignY=42&desc=welcome%20to%20my%20profile!&descSize=15&descAlign=58&fontColor=708a32&animation=fadeIn">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=210&section=header&text=Doyeon%20Lee&fontSize=55&fontAlignY=42&desc=welcome%20to%20my%20profile!&descSize=15&descAlign=58&fontColor=ACE355&animation=fadeIn">
  
 
 ## Contects
