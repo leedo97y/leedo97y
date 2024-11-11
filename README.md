@@ -27,7 +27,8 @@ Tech Stack that i've used at least once
 
 <br/>
 
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leedo97y&layout=compact&theme=github_dark_dimmed"/>
+<div align=left >
+<img src="https://github-readme-stats.vercel.app/api?username=leedo97y&show_icons=true&theme=ocean_dark"/> &nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leedo97y&layout=compact&theme=github_dark_dimmed"/>
 </div>
 
